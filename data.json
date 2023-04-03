@@ -1,0 +1,201 @@
+[
+    {
+        "id": "sl1",
+        "hero_img": "./slider_img/slide1.jpg",
+        "hero_h1": "BANDHAVGARH NATIONAL PARK",
+        "hero_p": "The Land of Tiger’s",
+        "para1": "Bandhavgarh National Park is a popular wildlife sanctuary located in the Umaria district of Madhya Pradesh, India. Spread over an area of approximately 450 square kilometers, it is known for its rich biodiversity, dense forests, and numerous wildlife species. The park is home to more than 50 species of mammals, including tigers, leopards, deer, wild boars, sloth bears, and langurs, and over 250 species of birds, such as eagles, vultures, owls, and migratory birds. The park is also home to various reptiles, including pythons, cobras, and various species of lizards.",
+        "para2": "Bandhavgarh National Park is famous for its high density of tigers, and it is one of the best places in India to spot these majestic animals in the wild. The park has a number of safari routes that visitors can take to explore the park and spot its wildlife. Jeep safaris and elephant safaris are popular options for exploring the park. Apart from its wildlife, Bandhavgarh is also known for its historical significance. The park has a number of ancient caves, statues, and temples, some of which date back to the 10th century. The Bandhavgarh Fort, located inside the park, is another popular tourist attraction. Overall, Bandhavgarh National Park is a must-visit destination for wildlife enthusiasts and nature lovers who want to experience the natural beauty and rich biodiversity of India.",
+        "gallery_image": [
+            "./slider_img/bandhav/pic1.jpg",
+            "./slider_img/bandhav/pic2.jpg",
+            "./slider_img/bandhav/pic3.jpg",
+            "./slider_img/bandhav/pic4.jpg",
+            "./slider_img/bandhav/pic5.jpg"
+        ]
+    },
+    {
+        "id": "sl2",
+        "hero_img": "./slider_img/slide2.jpg",
+        "hero_h1": "SANCHI STUPA",
+        "hero_p": "The best Buddhist artwork in the world’s",
+
+        "para1": "Sanchi Stupa is a UNESCO World Heritage Site located in the town of Sanchi in the state of Madhya Pradesh, India. It is one of the oldest and most important Buddhist sites in India, dating back to the 3rd century BCE.       The Sanchi Stupa is a large hemispherical dome-shaped structure that was built over the relics of the Buddha. The stupa is surrounded by a stone railing, which is decorated with intricate carvings depicting scenes from the life of the Buddha and other Buddhist legends. The stupa is also adorned with four gateways or toranas, which are considered to be masterpieces of Buddhist art.",
+
+        "para2": "The stupa complex at Sanchi also includes a number of other Buddhist structures, including temples, monasteries, and other stupas. The most notable of these is the Great Bowl, which is a large stone bowl that was used for distributing alms to the monks.        The Sanchi Stupa is considered to be an important pilgrimage site for Buddhists from around the world. It is also a popular tourist destination, attracting visitors who are interested in Indian history and culture.        Overall, the Sanchi Stupa is a fascinating example of ancient Indian architecture and art, and it is a testament to the enduring legacy of Buddhism in India.",
+        "gallery_image": [
+            "./slider_img/stuppa/pic1.jpeg",
+            "./slider_img/stuppa/pic2.jpeg",
+            "./slider_img/stuppa/pic3.jpeg",
+            "./slider_img/stuppa/pic4.jpeg",
+            "./slider_img/stuppa/pic5.jpeg"
+        ]
+    },
+    {
+        "id": "sl3",
+        "hero_img": "./slider_img/slide3.jpg",
+        "hero_h1": "Khajuraho Temples",
+        "hero_p": " the country's largest group of medieval Hindu and Jain temples",
+
+        "para1": "The Khajuraho Group of Temples is a UNESCO World Heritage Site located in the town of Khajuraho in the state of Madhya Pradesh, India. The temples were built between the 9th and 11th centuries by the Chandela dynasty and are known for their exquisite architecture and intricate carvings.        The Khajuraho Group of Temples consists of 20 temples, of which the most famous are the Kandariya Mahadeva Temple, the Lakshmana Temple, and the Vishvanatha Temple. These temples are dedicated to various Hindu deities and are built in the Nagara style of architecture, characterized by their tall, curvilinear spires.",
+
+        "para2": "The temples are also known for their erotic sculptures, which are believed to represent the celebration of love and the creative forces of life. However, these sculptures make up only a small portion of the overall artwork in the temples, which also depict scenes from Hindu mythology, daily life, and other aspects of Indian culture.        The Khajuraho Group of Temples is considered to be a masterpiece of Indian art and architecture, and they attract visitors from around the world who are interested in the history and culture of India. The temples have been well-preserved over the centuries and remain an important part of India's cultural heritage.",
+        "gallery_image": [
+            "./slider_img/khajuro/pic1.jpeg",
+            "./slider_img/khajuro/pic2.jpeg",
+            "./slider_img/khajuro/pic3.jpeg",
+            "./slider_img/khajuro/pic4.jpeg",
+            "./slider_img/khajuro/pic5.jpeg"
+        ]
+    },
+    {
+        "id": "sl4",
+        "hero_img": "./slider_img/slide4.jpg",
+        "hero_h1": "Gwalior Fort",
+        "hero_p": "the pearl in the necklace of the forts of India",
+
+        "para1": "Gwalior Fort is a historical fort located in the city of Gwalior in the state of Madhya Pradesh, India. The fort has a rich history that spans over 1000 years and it is known for its unique architecture and stunning views.        The fort was first built in the 8th century by the rulers of the Kachchhapaghata dynasty. Over the centuries, the fort was occupied by several different rulers, including the Tomars, the Mughals, and the Scindias. Each ruler added their own unique architectural styles and features to the fort, resulting in a stunning blend of different styles and influences.         The fort is spread over an area of approximately 3 square kilometers and is home to numerous palaces, temples, and other structures. The most famous of these is the Man Mandir Palace, which was built by Raja Man Singh Tomar in the 15th century. The palace features intricate carvings and beautiful architecture and is considered to be one of the finest examples of Rajput architecture in India.",
+
+        "para2": "Other notable structures within the fort include the Sas-Bahu Temples, the Teli Ka Mandir, and the Gujari Mahal. The fort also offers stunning views of the surrounding landscape, including the city of Gwalior and the nearby Chambal River.        Today, the Gwalior Fort is a popular tourist destination and attracts visitors from around the world who are interested in the history and culture of India. The fort has been well-preserved over the centuries and remains an important part of India's cultural heritage",
+        "gallery_image": [
+            "./slider_img/fort/pic1.jpg",
+            "./slider_img/fort/pic2.jpeg",
+            "./slider_img/fort/pic3.jpeg",
+            "./slider_img/fort/pic4.jpeg",
+            "./slider_img/fort/pic5.jpg"
+        ]
+    }
+    ,
+    {
+        "id": "sl5",
+        "hero_img": "./slider_img/slide5.jpg",
+        "hero_h1": "Dhuandhar Falls",
+        "hero_p": "The Marble falls",
+
+        "para1": "Dhuandhar Falls is a waterfall located on the Narmada River in the state of Madhya Pradesh, India. The name \"Dhuandhar\" means \"smoke cascade,\" referring to the mist that rises from the base of the waterfall.      The Narmada River flows through a narrow gorge before dropping 30 meters (98 feet) at Dhuandhar Falls, creating a spectacular display of water cascading over the rocky terrain. The water falls into a pool below, creating a mist that rises and forms a \"smoke-like\" appearance, which is how the waterfall got its name.",
+
+        "para2": "There is a cable car ride that takes visitors to the top of the waterfall, offering a panoramic view of the surrounding landscape. Visitors can also take a boat ride to the base of the waterfall to experience the mist and the force of the water up close.        Dhuandhar Falls is not only a popular tourist attraction but also an important source of hydroelectric power. A hydroelectric power plant is located near the falls, which harnesses the power of the waterfall to generate electricity for the surrounding region.        Overall, Dhuandhar Falls is a natural wonder that offers visitors a chance to experience the beauty and power of nature. The waterfall is a must-visit destination for anyone traveling to Madhya Pradesh.",
+
+        "gallery_image": [
+            "./slider_img/falls/pic1.jpeg",
+            "./slider_img/falls/pic2.jpeg",
+            "./slider_img/falls/pic3.jpeg",
+            "./slider_img/falls/pic4.jpeg",
+            "./slider_img/falls/pic5.jpeg"
+        ]
+    }
+    ,
+    {
+        "id": "sl6",
+        "hero_img": "./exp_img/explore1.jpg",
+        "hero_h1": "nature",
+        "hero_p": "",
+
+        "para1": "Madhya Pradesh is a state in central India that boasts a diverse and rich natural environment. From lush forests to scenic rivers, Madhya Pradesh is home to a variety of ecosystems that offer visitors a chance to experience the beauty and power of nature.        One of the most notable natural features of Madhya Pradesh is its forests. The Satpura, Vindhya, and Pachmarhi forests are just a few of the many forested areas that can be found in the state. These forests are home to a wide range of wildlife, including tigers, leopards, sloth bears, and many species of birds.",
+
+        "para2": "Madhya Pradesh is also home to several rivers, including the Narmada, Tapti, Chambal, and Betwa rivers. The Narmada river is considered to be one of the most important rivers in India, and it is home to several scenic waterfalls, including the Dhuandhar Falls and the Bhedaghat Falls.        In addition to its forests and rivers, Madhya Pradesh is home to several national parks and wildlife sanctuaries, including Kanha National Park, Bandhavgarh National Park, and Pench National Park. These parks are known for their rich biodiversity and are home to several endangered species of animals.        Madhya Pradesh also boasts a variety of unique geographical features, including the marble rocks at Bhedaghat, the balancing rock at Jabalpur, and the Pachmarhi plateau.",
+
+        "gallery_image": [
+            "./exp_img/nature/pic1.jpg",
+            "./exp_img/nature/pic2.jpg",
+            "./exp_img/nature/pic3.jpg",
+            "./exp_img/nature/pic4.jpg",
+            "./exp_img/nature/pic5.jpg"
+        ]
+    }
+    ,
+    {
+        "id": "sl7",
+        "hero_img": "./exp_img/explore2.jpg",
+        "hero_h1": "heritage",
+        "hero_p": "",
+
+        "para1": "Madhya Pradesh is a state with a rich and diverse cultural and historical heritage. The region is home to numerous ancient temples, monuments, and palaces that offer a glimpse into the area's rich past. These heritage sites are a testament to the artistic and architectural achievements of the ancient kingdoms and dynasties that ruled over the region.        One of the most notable heritage sites in Madhya Pradesh is the Khajuraho Temples. Built during the Chandela dynasty in the 10th and 11th centuries, these Hindu and Jain temples are famous for their intricate carvings and sculptures, many of which depict erotic themes. The temples are a UNESCO World Heritage Site and are considered to be one of the finest examples of temple architecture in India.",
+
+        "para2": "Another important heritage site in Madhya Pradesh is the Sanchi Stupa. Built during the Mauryan dynasty in the 3rd century BC, this Buddhist monument is famous for its exquisite carvings and sculptures. The stupa is also a UNESCO World Heritage Site and is considered to be one of the most important Buddhist sites in India.        Madhya Pradesh is also home to numerous palaces and forts that were built by the various dynasties that ruled over the region. The Gwalior Fort, for example, was built during the 8th century and is famous for its stunning architecture and intricate carvings. Other notable palaces and forts in the region include the Mandu Fort, the Jahaz Mahal, and the Rani Mahal.",
+
+        "gallery_image": [
+            "./slider_img/stuppa/pic1.jpeg",
+            "./slider_img/stuppa/pic2.jpeg",
+            "./slider_img/fort/pic3.jpeg",
+            "./slider_img/khajuro/pic4.jpeg",
+            "./slider_img/khajuro/pic5.jpeg"
+        ]
+    }
+    ,
+    {
+        "id": "sl8",
+        "hero_img": "./exp_img/explore3.jpg",
+        "hero_h1": "advanture",
+        "hero_p": "",
+
+        "para1": "Madhya Pradesh offers a range of exciting adventure activities for thrill-seekers. One of the most popular activities is trekking, with the Pachmarhi hill station, Satpura range, and Mandu hills being popular trekking destinations. These areas offer scenic trails and breathtaking views of the surrounding landscape.        Another popular adventure activity is rock climbing, with the Pachmarhi and Satpura regions being popular for this activity. The rugged terrain and rocky outcrops offer a challenging and exciting experience for climbers of all levels.",
+
+        "para2": "For those who prefer water sports, Madhya Pradesh offers a range of options, including white-water rafting, kayaking, and canoeing. The Betwa and Narmada rivers are popular destinations for these activities, with rapids of varying grades to suit different skill levels.        Wildlife safaris are also a popular adventure activity in Madhya Pradesh, with several national parks and wildlife sanctuaries offering jeep safaris, elephant safaris, and walking safaris. These safaris offer a chance to get up close and personal with the region's rich biodiversity, including tigers, leopards, and many species of birds.        Overall, Madhya Pradesh is a great destination for adventure enthusiasts, with a range of exciting activities to suit all interests and skill levels.",
+
+        "gallery_image": [
+            "./exp_img/advanture/pic1.jpg",
+            "./exp_img/advanture/pic2.jpg",
+            "./exp_img/advanture/pic3.jpeg",
+            "./exp_img/advanture/pic4.jpg",
+            "./exp_img/advanture/pic5.jpg"
+        ]
+    }
+    ,
+    {
+        "id": "sl9",
+        "hero_img": "./exp_img/explore4.jpg",
+        "hero_h1": "sprituality",
+        "hero_p": "",
+
+        "para1": "Madhya Pradesh is known for its rich spiritual heritage, with a wide variety of religious and spiritual traditions that have thrived in the region for centuries. The state is home to numerous ancient temples, holy sites, and pilgrimage centers that are revered by people of different faiths.        One of the most important spiritual sites in Madhya Pradesh is the Mahakaleshwar Jyotirlinga temple in Ujjain. It is one of the twelve Jyotirlingas in India and is dedicated to Lord Shiva. The temple is visited by thousands of devotees every year and is believed to have great spiritual significance",
+
+        "para2": "Another important pilgrimage site in Madhya Pradesh is the Omkareshwar temple, located on an island in the Narmada river. It is also dedicated to Lord Shiva and is believed to be one of the holiest places in India. The temple is known for its unique architecture and is a popular destination for spiritual seekers.        Apart from these, Madhya Pradesh is also home to numerous other spiritual sites and centers, including the Chitrakoot temple, the Bhojpur temple, and the Sanchi Stupa, which is an important Buddhist site. These sites offer a glimpse into the region's rich spiritual heritage and provide a peaceful and serene atmosphere for visitors to connect with their inner selves.",
+
+        "gallery_image": [
+            "./exp_img/sprit/pic1.jpg",
+            "./exp_img/sprit/pic2.jpg",
+            "./exp_img/sprit/pic3.jpg",
+            "./exp_img/sprit/pic4.jpg",
+            "./exp_img/sprit/pic5.jpg"
+        ]
+    }
+    ,
+    {
+        "id": "sl10",
+        "hero_img": "./exp_img/explore5.jpg",
+        "hero_h1": "wildlife",
+        "hero_p": "",
+
+        "para1": "Madhya Pradesh is a state that is blessed with abundant natural resources, including a diverse range of flora and fauna. The state is home to several national parks and wildlife sanctuaries that provide a haven for a wide variety of wildlife species, including some of the most endangered and elusive animals in the world.      One of the most famous wildlife destinations in Madhya Pradesh is Bandhavgarh National Park. This park is known for its high density of tigers, and it is one of the best places in the world to spot these majestic animals in their natural habitat. The park is also home to other wildlife species, including leopards, deer, and several species of birds.",
+
+        "para2": "Another popular wildlife destination in Madhya Pradesh is Kanha National Park. This park is known for its lush forests, open grasslands, and beautiful landscapes. It is home to several species of animals, including tigers, leopards, sloth bears, wild dogs, and many species of birds. Other notable wildlife destinations in Madhya Pradesh include Panna National Park, Satpura National Park, and Pench National Park. These parks are home to a wide range of wildlife species, including elephants, bison, deer, and many species of birds.      Overall, Madhya Pradesh is a paradise for wildlife enthusiasts, with its diverse range of flora and fauna and numerous national parks and wildlife sanctuaries. A visit to any of these parks offers a unique opportunity to experience the beauty and wonder of nature up close and personal, making it an unforgettable experience for all visitors.",
+
+        "gallery_image": [
+            "./slider_img/bandhav/pic1.jpg",
+            "./slider_img/bandhav/pic2.jpg",
+            "./slider_img/bandhav/pic3.jpg",
+            "./slider_img/bandhav/pic4.jpg",
+            "./slider_img/bandhav/pic5.jpg"
+        ]
+    }
+    ,
+    {
+        "id": "sl11",
+        "hero_img": "./exp_img/explore6.jpg",
+        "hero_h1": "food",
+        "hero_p": "",
+
+        "para1": "Madhya Pradesh has a rich culinary heritage, with a wide range of delicious and unique dishes that reflect the state's diverse cultural and regional influences. The cuisine of Madhya Pradesh is known for its use of local ingredients and traditional cooking methods, which make the dishes both flavorful and nutritious.        One of the most popular dishes in Madhya Pradesh is poha, which is a breakfast dish made from flattened rice flakes, potatoes, and a variety of spices. Another popular dish is bhutte ka kees, which is made from grated corn, milk, and a variety of spices.",
+
+        "para2": "Meat lovers will find plenty of options in Madhya Pradesh, with dishes such as kebabs, biryanis, and curries made from mutton, chicken, and fish. For vegetarians, there are plenty of options as well, including dishes such as dal bafla, which is a combination of lentil soup and baked bread, and sabudana khichdi, which is a dish made from sago pearls and potatoes.  Madhya Pradesh is also known for its sweets and desserts, with popular dishes such as mawa bati, which is a sweet made from milk solids and sugar, and ghevar, which is a sweet made from flour, sugar, and ghee.        Overall, Madhya Pradesh has a rich culinary heritage, with a variety of delicious and unique dishes that are sure to delight visitors. Whether you are a meat lover or a vegetarian, a fan of spicy food or something milder, there is something for everyone to enjoy in the state's diverse cuisine.",
+
+        "gallery_image": [
+            "./exp_img/food/pic1.jpg",
+            "./exp_img/food/pic2.jpg",
+            "./exp_img/food/pic3.jpg",
+            "./exp_img/food/pic4.jpg",
+            "./exp_img/food/pic5.jpg"
+        ]
+    }
+]

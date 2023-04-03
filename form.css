@@ -1,0 +1,62 @@
+.container {
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.container .form_wrapper {
+    background: #000;
+    width: 600px;
+    border-radius: 20px;
+}
+.form_wrapper .form {
+    margin: 70px 90px;
+    display: flex;
+    flex-direction: column;
+    gap: 40px;
+}
+.form_wrapper .form .input_container {
+    display: flex;
+    flex-direction: column;
+    gap: 35px;
+}
+.form_wrapper .form  input.btn{
+
+    font-size: 18px;
+    width: 120px;
+}
+.form_wrapper .form .input_container input{
+    font-size: 16px;
+}
+.form_wrapper .form .input_container .for {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+.form_wrapper .form .input_container .for label{
+    font-size: 18px;
+}
+.form_wrapper .form .input_container .for input{
+    background: #161623;
+    border: none;
+    outline: none;
+    padding: 5px 5px;
+    border-radius: 5px;
+    
+}
+
+.container .form_wrapper .form_para a{
+    color: #be1f1f;
+    margin-top: 10px;
+    display: block;
+}
+
+
+/* ################################## error messsage  ############################*/
+
+.err_msg{
+    color: red;
+    /* position: absolute; */
+    margin-top: 2px;
+}

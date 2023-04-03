@@ -1,0 +1,188 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>MP Attractions</title>
+    <link href="style.css" rel="stylesheet" type="text/css" />
+    <link rel="stylesheet" href="attraction.css">
+
+    <style>
+    </style>
+</head>
+
+<body class="bg_main">
+    <div id="preloader"></div>
+    <nav>
+        <div class="navbar app_container">
+            <div class="logo">
+                <h2><span>mp </span>Toursim</h2>
+            </div>
+            <div class="link_container">
+                <ul>
+                    <li><button class="btn btn_back"><a href="index.html#attraction">Go Back</a></button></li>
+                    <li><button class="btn"><a href="logout.php">Log Out</a></button></li>
+                </ul>
+            </div>
+        </div>
+    </nav>
+
+    <div class="att_layout">
+        <!--
+        <div class="att_hero">
+            <div class="att_hero_img">
+                <img src="./slider_img/slide1.jpg" alt="">
+            </div>
+            <div class="att_hero_content app_container">
+                <h1>BANDHAVGARH NATIONAL PARK</h1>
+                <p>The Land of Tiger’s</p>
+            </div>
+        </div>
+
+
+        <div class="att_desc app_container">
+            <div>
+                <h1>All you need to know</h1>
+                <p>
+                    Bandhavgarh National Park is a popular wildlife sanctuary located in the Umaria district of Madhya Pradesh, India. Spread over an area of approximately 450 square kilometers, it is known for its rich biodiversity, dense forests, and numerous wildlife species.
+                    The park is home to more than 50 species of mammals, including tigers, leopards, deer, wild boars, sloth bears, and langurs, and over 250 species of birds, such as eagles, vultures, owls, and migratory birds. The park is also home to various reptiles, including pythons, cobras, and various species of lizards.
+                </p>
+                <p>
+                    Bandhavgarh National Park is famous for its high density of tigers, and it is one of the best places in India to spot these majestic animals in the wild. The park has a number of safari routes that visitors can take to explore the park and spot its wildlife. Jeep safaris and elephant safaris are popular options for exploring the park.
+                    Apart from its wildlife, Bandhavgarh is also known for its historical significance. The park has a number of ancient caves, statues, and temples, some of which date back to the 10th century. The Bandhavgarh Fort, located inside the park, is another popular tourist attraction.
+                    Overall, Bandhavgarh National Park is a must-visit destination for wildlife enthusiasts and nature lovers who want to experience the natural beauty and rich biodiversity of India.
+                </p>
+                <div class="desc_btn">
+                    <a class="btn_more" href="index.html#attraction">Other Attractions <img src="./icon/red_arrow.png" alt=""></a>
+                </div>
+            </div>
+        </div>
+
+        <div class="att_gallery app_container">
+            <div class="att_gallery_container">
+                <h1>Gallery</h1>
+                <div class="img_gallery">
+                    <div class="image">
+                        <img src="./slider_img/bandhav/pic1.jpg" alt="pic">
+                    </div>
+                    <div class="image">
+                        <img src="./slider_img/bandhav/pic2.jpg" alt="pic">
+                    </div>
+                    <div class="image">
+                        <img src="./slider_img/bandhav/pic3.jpg" alt="pic">
+                    </div>
+                    <div class="image">
+                        <img src="./slider_img/bandhav/pic4.jpg" alt="pic">
+                    </div>
+                    <div class="image">
+                        <img src="./slider_img/bandhav/pic5.jpg" alt="pic">
+                    </div>
+                </div>
+            </div>
+        </div> -->
+    </div>
+
+
+    <!-- <script src="./data.js"></script> -->
+    <script src="./data.json"></script>
+
+    <script>
+
+        // ########## Page PreLoader 
+
+        let loader = document.getElementById("preloader");
+
+        window.addEventListener("load", function () {
+            let layout = document.querySelector(".att_layout")
+            // if (layout.innerHTML != "") {
+            loader.style.display = "none"
+            // }
+        })
+
+
+
+
+        // dynamic content acccourding to the link clicked
+
+        const storedLinkId = localStorage.getItem('storedLinkId');
+        console.log(storedLinkId);
+
+        function myFunc(myArray) {
+            //do what you want HERE.
+            let myObject = myArray.find(obj => obj.id == storedLinkId);
+            // console.log(myObject.para1);
+
+            let layout = document.querySelector(".att_layout")
+
+            layout.innerHTML = `
+                <div class="att_layout">
+                    <div class="att_hero">
+                        <div class="att_hero_img">
+                            <img src=${myObject.hero_img} alt="">
+                        </div>
+                        <div class="att_hero_content app_container">
+                            <h1>${myObject.hero_h1}</h1>
+                            <p>${myObject.hero_p}</p>
+                        </div>
+                    </div>
+
+
+                    <div class="att_desc app_container">
+                        <div>
+                            <h1>All you need to know</h1>
+                            <p>
+                                ${myObject.para1}
+                            </p>
+                            <p>
+                            ${myObject.para2}
+                            </p>
+                            <div class="desc_btn">
+                                <a class="btn_more" href="index.html#attraction">Other Attractions <img src="./icon/red_arrow.png" alt=""></a>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="att_gallery app_container">
+                        <div class="att_gallery_container">
+                            <h1>Gallery</h1>
+                            <div class="img_gallery">
+                                <div class="image">
+                                    <img src=${myObject.gallery_image[0]} alt="pic">
+                                </div>
+                                <div class="image">
+                                    <img src=${myObject.gallery_image[1]} alt="pic">
+                                </div>
+                                <div class="image">
+                                    <img src=${myObject.gallery_image[2]} alt="pic">
+                                </div>
+                                <div class="image">
+                                    <img src=${myObject.gallery_image[3]} alt="pic">
+                                </div>
+                                <div class="image">
+                                    <img src=${myObject.gallery_image[4]} alt="pic">
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                </div>
+                <footer id="footer">
+        <h3>&copy; 2023 MP Tourism Website. all rights reserved</h3>
+    </footer>
+                    `
+            console.log(myArray)
+
+        }
+
+        fetch('./data.json')
+            .then(data => data.json())
+            .then(myArray => myFunc(myArray));
+
+        
+
+    </script>
+</body>
+
+</html>
